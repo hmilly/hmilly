@@ -12,3 +12,9 @@ https://hmilly.github.io/
 <img src="https://img.shields.io/badge/-JS-yellow?logo=javascript&logoColor=white&logoWidth=10" height="30px"  align="center">
 <img src="https://img.shields.io/badge/-ReactJs-4682B4?logo=react&logoColor=white&logoWidth=10" height="30px"  align="center">
 </div>
+
+<div>
+
+![Hm's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmilly&count_private=true&show_icons=true&theme=tokyonight)
+
+</div>
