@@ -19,5 +19,5 @@ https://hmilly.github.io/
 </div>
 
 <div margin="10px 0" align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmilly)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmilly)
 </div>
