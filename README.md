@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmilly&layout=compact&exclude_repo=github-readme-stats,js-30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmilly&layout=compact)
 </div>
 
 <br>
